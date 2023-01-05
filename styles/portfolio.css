@@ -17,12 +17,16 @@
     border-radius: 5px;
     background: #FD6E0A;
 }
-
+.imagemain{
+    margin-left: auto;
+   
+}
 .header {
     background: #FFF8F3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
     background-repeat: no-repeat;
     background-position: bottom right, left;
+    
 }
 
 /* header and nevigation styles */
